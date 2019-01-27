@@ -1,0 +1,10 @@
+zadanie 1:
+1. Dodanie umiejetnoœci w rozwoju postaci - Wiedzmiñ 3 - Otwórz panel menu przyciskiem backspace. Wybierz zaka³dkê postaæ i kliknij E lub dwa razy ledwym przyciskiem myszy na dowolny wybrnay kwadrat z 5 kategorii rozwoju postaci. Nastpênie umieœæ wybrany kwadrat z umijêtnoœci¹ w kolumnie przenosz¹æ j¹ lewym przyciskiem myszy. 
+2. Rozpoczêcie budowy nowej karuzeli - RollerCoaster Tycoon 3 - Klikam lewym przyciskiem myszy w ikonê z diabelskim m³ynem, po pojawiniu sie ró¿nych kategorii karuzel wybieram jedn¹ i ustawiam pierszy segment karuzeli na ekranie (mapie weso³ego miasteczka), zatwierdzam klikaj¹c lewym przyciskiem myszy.
+3. Filmweb ocena filmu - Uruchamiam aplikacjê na telefon, klikaj¹c w lupe znajduj¹c¹ siê w lewym górnym rogu wpisujê nazwe filmu, po pokazaniu siê proponowanych filmów wybieram naciœniêciem film który mnie interesuje. Wciskam na giazdki i zaznaczam iloœc gwaizdek. Naciskam zapisz.
+4. McDonald's aktywowanie kuponu - Uruchamiam aplikacjê na telefon, naciskaj¹c w zak³adkê oferty przechodzê do wszystkich aktualnych kuponów. Wybieram intetresuj¹cy mnie kupon i naciskam przycisk "odbierz ofertê". Nastêpnie pojawia siê komunikat pytaj¹cy o potwierdzenie odbioru oferty. Naciskam przycisk "tak", okno z komunikatem zamyka siê i przechodzi do okna z kodem kreskowym i informacj¹ z aktywnym kuponem. 
+5. Netflix wybór filmu - Uruchamiam strone internetow¹, wybieram profil u¿ytkownika klikajac lewym przyciskiem myszy. Nastepnie po uruchomieniu profilu wybieram film naje¿d¿aj¹c na miniaturkê filmu i po dokoaniu wyboru klikam lewym przyciskiem myszy. Film uruchamia siê. 
+zadanie 2:
+plik kalkulator
+plik assassin's
+zadanie 3:
